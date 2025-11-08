@@ -13,7 +13,7 @@ def a(s):
     c = "Good luck"
     for q in range (d, f) :
         if g == h :
-            while(g > j) :
+            while(g < j) :
                 x = k + l + z
                 k = l
                 l = z
