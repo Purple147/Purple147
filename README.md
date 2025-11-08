@@ -1,24 +1,28 @@
-## Hi there, i'm mohammad kefayati  👋
+```python
+def a(s):
+    d = "Hello_world"
+    f = "Bye_world"
+    g = "Mohammad_Kefayati"
+    h = "Sineme333"
+    j = "SaaS  hosted API"
+    k = "Learn"
+    I_learned = "Git, Github, Python, Markdown, Visual Studio Code, Wordpress, Gmail, Telegram , Steam, Windows, AI searching, Youtube, Google"
+    Most_to_learn = "FastAPI, DB, Auth, Docker, Deploy, Static analysis, Code models, Pipeline, Dashboard + billing tests, MVP launch & outreach"
+    l = "Gain experience"
+    z = "Collect money"
+    c = "Good luck"
+    for q in range (d, f) :
+        if g == h :
+            while(g > j) :
+                x = k + l + z
+                k = l
+                l = z
+                z = x
+                return c
+```
+![Stats](https://github-profile-trophy.vercel.app/?username=sineme333&theme=aura) 
 
-## my activity
-![statues](https://github-readme-stats.vercel.app/api?username=sineme333&show_icons=true&theme=radical)
-## my projects languages
-![statue](https://github-readme-stats.vercel.app/api/top-langs/?username=sineme333&exclude_repo=github-readme-stats,anuraghazra.github.io)
+<a href="https://t.me/sineme333"><img width="50px" height="50px" align="center" src="https://github.com/sineme333/learn/blob/main/icons8-telegram-logo-64.png?raw=true" /></a>
+<a href="https://www.linkedin.com/in/Sineme333"><img width="50px" height="50px" align="center" src="https://github.com/sineme333/learn/blob/main/icons8-linkedin-logo-64.png?raw=true" /></a>
 
 
-<br />
-
-
-
-![[my github addres](https://github.com/sineme333/learn.git)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvfvnVqLf60_U1tkzGJDLH0HhDb-n7Udn8w&s)
-
-
-
-
-<br />
-
-<h2 align="center">asdfasdfasdf</h2> 
-<p align="center">hi there</p>
-
-
-<h2 align="right">rrrrrr</h2>
