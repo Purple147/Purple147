@@ -22,7 +22,7 @@ def a(s):
                 z = x
                 return c
 ```
-![Stats](https://github-profile-trophy.vercel.app/?username=sineme333&theme=aura) 
+![Stats](https://github-profile-trophy.vercel.app/?username=Purple147&theme=aura) 
 
 <a href="https://t.me/sineme333"><img width="50px" height="50px" align="center" src="https://github.com/sineme333/learn/blob/main/icons8-telegram-logo-64.png?raw=true" /></a>
 <a href="https://www.linkedin.com/in/Sineme333"><img width="50px" height="50px" align="center" src="https://github.com/sineme333/learn/blob/main/icons8-linkedin-logo-64.png?raw=true" /></a>
