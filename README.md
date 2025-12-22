@@ -10,7 +10,6 @@ Knowing = {
 	"7 Employment and income generation(0 Security researcher, 1 Security Engineer)": "[0 Linkedin, 1 AngelList, 2 CyberSeek]"
 }	
 ```
-![Stats]([https://github-readme-stats.vercel.app/api?username=GPB147&show_icons=true&theme=radical]) 
 
 <a href="https://t.me/Sineme333"><img width="50px" height="50px" align="center" src="https://github.com/sineme333/learn/blob/main/icons8-telegram-logo-64.png?raw=true" /></a>
 <a href="https://www.linkedin.com/in/Sineme333"><img width="50px" height="50px" align="center" src="https://github.com/sineme333/learn/blob/main/icons8-linkedin-logo-64.png?raw=true" /></a>
