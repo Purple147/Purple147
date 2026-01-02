@@ -140,16 +140,61 @@ GPB147_RoadMap =
 
 				3 Don't learn = [Full motherboard design, Electrical engineering, BIOS vendor marketing docs]
 
-			1 Practical Projects:
+		3 Growth:
 
-				0 Must to do = [GitHub PoCs, Firmware/rootkit write‑ups, UEFI‑focused CTFs]
+			0 Career = [The Cybersecurity Career Guide (2nd Edition), Remote research roles, Crypto / indirect payment (as you planned)]
 
-				1 Career = [The Cybersecurity Career Guide (2nd Edition), Cracking the Coding Interview (7th) oprional, Remote research roles, Crypto / indirect payment (as you planned)]
+			1 Hiring = [They connect to you, You connect to they]
+		
+			2 Trying = {"High demand: More", "Average demand: middle", "Low demand: Low"}
 
-				2 Don't do = [Certifications obsession, Social media branding, Non‑technical networking]	
+			3 Trusting = [GitHub, Reddit, StackOverFlow, Correboot, Linkedin, Conferences, Classes, Certifications]
 
-		3 Growth = [GitHub, Reddit, StackOverFlow, Correboot, Freelancing, Jobs, CTF, Bug Bounties, Open Sources, Certifications, Linkedin, Conferences, Classes]
+			4 Showing = [Writeups(Understanding) + POC(Making), Freelancing, Jobs]
 
+			5 Testing = [Open source contributions(Doing in real world), CTF]
+	
+			6 Focus = [For success you just need one of every phases(GitHub(Writeups + POC + Open source contributions))]
+
+			7 Don't do = [Certifications obsession, Social media branding, Not followers, Non‑technical networking]	
+
+			8 Roadmap:
+
+				0 Github:
+
+					0 Writeups:
+
+						0 Means = [Underestnding Concepts]
+
+						1 Use = [README, Wiki, docs/Documentation]
+
+					1 POC:
+
+						0 Means = [Proof Of Concepts]
+
+						1 Use = [Coding]
+
+					2 Open source contributions:
+
+						0 Means = [Doing Concepts]
+
+						1 Focus = [Niche, quality not quantity]
+
+						2 Steps = [Read, Build, Use, Observe friction, Small contribution, PR, Repeat]
+
+						3 Projects:
+
+							0 CHIPSEC = [Hardware/firmware security testing]
+		
+							1 EDK II(TianoCore) = [UEFI firmware]
+	
+							2 coreboot = [Open-source BIOS/firmware]
+	
+							3 UEFITool = [UEFI image analysis]
+	
+							4 Ghidra = [Reverse engineering plugins/scripts]
+
+							5 Linux kernel tooling/doc = [Small bug fixes or docs]			
 	}"""	
 
 	"2 Learning Process":
@@ -181,9 +226,9 @@ GPB147_RoadMap =
 		
 		1 In first start in web3 and for later apply for real remot job and after that passing technical evaluation and after that tell to company your position you are and crypto is the cleanest payment method for you
 		
-		2 Technical Evaluation = [See your growing, Deep discussion, Some tasks you most do]
+		2 Technical Evaluation = [See your growing, Deep discussion, Some tasks you must do]
 	
-		3 in technical evaluation just be your self and know it cyberseurity guys in world has like you in speaking English or don't like video chats or anything
+		3 in technical evaluation just be your self and know in cyberseurity guys in world has like you in speaking English or don't like video chats or anything
 
 		4 Earning Money = [Money transfered to your wallet from company, Convert to IRR gradually and in some accounts, making normal history in your account/s by saving and buying and pay rent and money earned and more, Growing your earned money by time]
 
