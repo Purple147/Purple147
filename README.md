@@ -250,7 +250,7 @@ GPB147_RoadMap =
 
 		7 2M = [1Seeing, 1Third Eye, 4English, 8Practical Projects, 1Buying, 1Sport, 1Clean, 1Founding Job, xGrowing, 7Sleep(10-4)]
 
-		8 Fact = [You forgot everything but important thing is RELOAD the knowledge you need fast, Forgoting is the price for being deep and deeper, And in last everything is automatic(No thinking)]
+		8 Fact = [You forgot everything but important thing is RELOAD the knowledge you need fast, Forgeting is the price for being deep and deeper, And in last everything is automatic(No thinking)]
 
 		9 Roadmap = [Learn, Done, Go to next, Forget, Reload only when needed, Automated]"""
 
@@ -270,13 +270,14 @@ GPB147_RoadMap =
 
 		6 Important In Remote Jobs = [Deadline, Quality]
 
-		7 In remote jobs no matter what time you spend in project and whet you word, missing deadline is normal and not communication is not normal(Explaining)
+		7 In remote jobs no matter what time you spend in project and when you work, missing deadline is normal and not communication is unusual(Explaining)
 
 		8 Important for me = [doing my best]"""
 }
 ```
 
 
+<a href="https://t.me/GPB147"><img width="50px" height="50px" align="center" src="https://github.com/sineme333/learn/blob/main/icons8-telegram-logo-64.png?raw=true" /></a>
 <a href="https://t.me/Sineme333"><img width="50px" height="50px" align="center" src="https://github.com/sineme333/learn/blob/main/icons8-telegram-logo-64.png?raw=true" /></a>
 <a href="https://www.linkedin.com/in/Sineme333"><img width="50px" height="50px" align="center" src="https://github.com/sineme333/learn/blob/main/icons8-linkedin-logo-64.png?raw=true" /></a>
 
