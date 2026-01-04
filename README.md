@@ -58,9 +58,15 @@ GPB147_RoadMap =
 
 				0 Books = [Linux Command Line and Shell Scripting Bible (5th Edition) + Linux Basics for Hackers]
 
-				1 Must to learn = [Live in terminal, Debug, script, build, flash, analyze]
+				1 Must to learn = [Bash, POSIX just for understanding, Live in terminal, Debug, script, build, flash, analyze]
 
-				2 Don't learn = [PowerShell, Desktop Linux theory, Server administration depth]
+				2 Don't learn = [PowerShell, zsh tricks, fish, fancy shells, Desktop Linux theory, Server administration depth, know Linux, filesystem theory, customize or beautify, treat directories as static, Learn hundreds of commands]
+
+				3 Commands:
+
+					0 Leanrn it = [inspect, trace, automate, build, debug]
+
+					1 Ignore it = [customize, decorate, replace thinking]
 
 			3 C programming:
 
@@ -70,7 +76,7 @@ GPB147_RoadMap =
 
 				2 Don't learn = [Modern C++ depth, STL, Application‑level patterns]
 
-			3 Computer Architecture & Memory:
+			4 Computer Architecture & Memory:
 
 				0 Books = [Computer Organization and Design MIPS Edition 6th]
 
@@ -78,7 +84,7 @@ GPB147_RoadMap =
 
 				2 Don't learn = [Quantitative CPU optimization, HPC topics]
 
-			4 Assembly(x86, ARM, x86_64):
+			5 Assembly(x86, ARM, x86_64):
 
 				0 Books = [The Art of Assembly Language (2nd Edition)]
 
@@ -86,7 +92,7 @@ GPB147_RoadMap =
 
 				2 Don't learn = [Writing large ASM programs, Micro‑optimizations]
 
-			5 Networking:
+			6 Networking:
 
 				0 Books = [Computer Networking: A Top-Down Approach (8th Edition)]
 
@@ -107,6 +113,8 @@ GPB147_RoadMap =
 				1 Must to learn = [User vs kernel boundary, Drivers, Boot chain OS ↔ firmware]
 
 				2 Don't learn = [Scheduler theory depth, Filesystem internals obsession]
+
+
 
 			1 Reverse Engineering:
 
@@ -148,7 +156,7 @@ GPB147_RoadMap =
 		
 			2 Trying = {"High demand: More", "Average demand: middle", "Low demand: Low"}
 
-			3 Trusting = [GitHub, Reddit, StackOverFlow, Correboot, Linkedin, Conferences, Classes, Certifications]
+			3 Trusting(Constincy) = [GitHub, Reddit, StackOverFlow, Correboot, Linkedin, Conferences, Classes, Certifications]
 
 			4 Showing = [Writeups(Understanding) + POC(Making), Freelancing, Jobs]
 
@@ -234,27 +242,57 @@ GPB147_RoadMap =
 
 	"3 Learning Process":
 
-		"""0 = {Fri: Free, Thu&Sat: Half, Sat&Mon&Wed: Sport}
+		"""0 = {Fri: Free+Funding, Thu&Sat: Half+Funding, Sat&Mon&Wed: Sport}
 		
-		1 2M = [1Seeing, 1Third Eye, 4English, 4Python, 1Buying, 1Sport, 1Clean, 1Founding Job, xGrowing, 7Sleep(10-4)]
+		1 2M = [1Seeing, 1Third Eye, 4English, 7Python, 1Buying, 1Sport, 1Clean, xGrowing, 7Sleep(10-4)]
 		
-		2 2M = [1Seeing, 1Third Eye, 4English, 4Linux+Terminal, 4C, 1Buying, 1Sport, 1Clean, 1Founding Job, xGrowing, 7Sleep(10-4)]
+		2 1M = [1Seeing, 1Third Eye, 4English, 11Linux+Terminal, 1Buying, 1Sport, 1Clean, xGrowing, 7Sleep(10-4)]
 		
-		3 2M = [1Seeing, 1Third Eye, 4English, 4Computer Architecture & Memory, 4Assembly(x86, ARM, x86_64), 1Buying, 1Sport, 1Clean, 1Founding Job, xGrowing, 7Sleep(10-4)]
+		3 1M = [1Seeing, 1Third Eye, 4English, 11C, 1Buying, 1Sport, 1Clean, xGrowing+Funding, 7Sleep(10-4)]
 		
-		4 2M = [1Seeing, 1Third Eye, 4English, 4Networking, 4Operating System Internals(OS Internet), 1Buying, 1Sport, 1Clean, 1Founding Job, xGrowing, 7Sleep(10-4)]
+		4 1M = [1Seeing, 1Third Eye, 4English, 11Computer Architecture & Memory, 1Buying, 1Sport, 1Clean, xGrowing+Funding, 7Sleep(10-4)]
 		
-		5 2M = [1Seeing, 1Third Eye, 4English, 4Reverse Engineering, 4Malware(user/kernel/rootkits), 1Buying, 1Sport, 1Clean, 1Founding Job, xGrowing, 7Sleep(10-4)]
+		5 1M = [1Seeing, 1Third Eye, 4English, 11Assembly(x86, ARM, x86_64), 1Buying, 1Sport, 1Clean, xGrowing+Funding, 7Sleep(10-4)]
 
-		6 2M = [1Seeing, 1Third Eye, 4English, 8Firmware / BIOS / UEFI, 1Buying, 1Sport, 1Clean, 1Founding Job, xGrowing, 7Sleep(10-4)]
+		6 1M = [1Seeing, 1Third Eye, 4English, 11Networking, 1Buying, 1Sport, 1Clean, xGrowing+Funding, 7Sleep(10-4)]
 
-		7 2M = [1Seeing, 1Third Eye, 4English, 8Practical Projects, 1Buying, 1Sport, 1Clean, 1Founding Job, xGrowing, 7Sleep(10-4)]
+		7 1M = [1Seeing, 1Third Eye, 4English, 11Operating System Internals(OS Internet), 1Buying, 1Sport, 1Clean, xGrowing+Funding, 7Sleep(10-4)]
 
-		8 Fact = [You forgot everything but important thing is RELOAD the knowledge you need fast, Forgeting is the price for being deep and deeper, And in last everything is automatic(No thinking)]
+		8 1M = [1Seeing, 1Third Eye, 4English, 11Reverse Engineering, 1Buying, 1Sport, 1Clean, xGrowing+Funding, 7Sleep(10-4)]
 
-		9 Roadmap = [Learn, Done, Go to next, Forget, Reload only when needed, Automated]"""
+		9 1M = [1Seeing, 1Third Eye, 4English, 11Malware(user/kernel/rootkits), 1Buying, 1Sport, 1Clean, xGrowing+Funding, 7Sleep(10-4)]
 
-	"4 Security":
+		10 4M = [1Seeing, 1Third Eye, 4English, 11Firmware / BIOS / UEFI, 1Buying, 1Sport, 1Clean, xGrowing+Funding, 7Sleep(10-4)]
+
+		11 1M = [1Seeing, 1Third Eye, 4English 1Buying, 1Sport, 1Clean, 11Growing+Funding, 7Sleep(10-4)]
+
+		12 Fact = [You forgot everything but important thing is RELOAD the knowledge you need fast, Forgeting is the price for being deep and deeper, And in last everything is automatic(No thinking)]
+
+		13 Roadmap = [Learn, Done, Go to next, Forget, Reload only when needed, Automated]"""
+
+	"4 AI(ML) Helper":
+
+		"""0 Roadmap:
+
+			0 Ask = [Giving data]
+
+			1 Customized = [Receive result] 
+
+			2 Learn = [More data] 
+
+			3 Confusing = [Error]
+
+			4 Ask = [Giving data]
+
+			5 Customized = [Receive result]
+
+			6 Learn = [More data]
+
+			7 Completed = [Completed healthy data] 
+
+			8 Go to next step = [Next subject]"""
+
+	"5 Security":
 
 		"""0 Payment Methods = [Foreign intermediary, Crypto(Web3), Platform that pay "indirectly"]
 		
@@ -273,6 +311,30 @@ GPB147_RoadMap =
 		7 In remote jobs no matter what time you spend in project and when you work, missing deadline is normal and not communication is unusual(Explaining)
 
 		8 Important for me = [doing my best]"""
+
+	"6 Requirements":
+
+		"""0 Time = [2 Year] 
+
+		1 Laptop
+
+		2 Internet
+
+		3 Focus = [Empty mind of other things]
+
+		4 Food"""
+
+	"7 Reward":
+
+		"""0 House = [Highest security, Best location, Small]
+
+		1 Freedom = [Money, Time, Travel]
+
+		2 Supporting = [Family, People like me]
+
+		3 Respect = [Best in one thing]
+
+		4 Own family = [Wife like me, Making fun together]"""
 }
 ```
 
