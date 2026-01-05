@@ -268,7 +268,7 @@ GPB147_RoadMap =
 
 		12 Fact = [You forgot everything but important thing is RELOAD the knowledge you need fast, Forgeting is the price for being deep and deeper, And in last everything is automatic(No thinking)]
 
-		13 Roadmap = [Learn, Done, Go to next, Forget, Reload only when needed, Automated]"""
+		13 Roadmap = [Learn basics, Done, Go to next, Forget, Learn niche, Reload only when needed + Details you need, Automated]"""
 
 	"4 AI(ML) Helper":
 
